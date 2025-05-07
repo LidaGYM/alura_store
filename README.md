@@ -36,7 +36,7 @@ El notebook está organizado en las siguientes secciones:
 
 Puedes abrir directamente el notebook en Google Colab:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/178t9WiI0BLbobtSwrWFSzMb6Ee4Yo_5q/view?usp=sharing)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SgJbONc-finbaDMzkonbiyTc0BbUcwXk?usp=sharing)
 
 ---
 
